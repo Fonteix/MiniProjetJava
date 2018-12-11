@@ -15,7 +15,7 @@ public class film {
         this.acteur = acteur;
         this.annee = annee;
         this.realisateur = realisateur;
-        this.support = support;
-        
+        this.support = support;   
+    
     }
 }
